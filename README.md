@@ -1,8 +1,8 @@
-##Hell-Triangle
+## Hell-Triangle
 
 Resolução do desafio "Hell Triangle"
 
-##Problema
+## Problema
 Dado o triângulo de números abaixo, encontrar o valor máximo total de cima para baixo. 
 
 Exemplo:
@@ -20,7 +20,7 @@ Neste triângulo o valor máximo é:
 6 + 5 + 7 + 8 = 26
 ```
 
-##Implementação
+## Implementação
 
 A implementação usou da estratégia de recursividade encontrando entre os nós esquerdos e direitos, o maior valor.
 
@@ -35,7 +35,7 @@ Exemplo de consumo:
 26
 ```
 
-##Testes
+## Testes
 
 Execução dos testes
 
